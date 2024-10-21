@@ -9,7 +9,7 @@ import ForgotPassword from './ForgotPassword';
 import SignUp from './SignUp';
 import StudentAttendance from './StudentAttendance';
 import StudentMarks from './StudentMarks';
-import StudentInfo from './StudentInfo';
+import StudentInfo from './Studentinfo';
 import FacultyAttendance from './FacultyAttendance';
 import FacultySections from './FacultySections';
 import AddMarks from './AddMarks';
